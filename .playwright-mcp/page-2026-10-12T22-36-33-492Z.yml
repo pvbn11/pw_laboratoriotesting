@@ -1,0 +1,48 @@
+- generic [active] [ref=f4e1]:
+  - navigation [ref=f4e2]:
+    - complementary [ref=f4e3]:
+      - button [ref=f4e4] [cursor=pointer]
+      - generic [ref=f4e7]:
+        - paragraph [ref=f4e8]: Imagen
+        - paragraph [ref=f4e9]: Nombre
+        - paragraph [ref=f4e10]: Cantidad
+        - paragraph [ref=f4e11]: Precio
+        - paragraph [ref=f4e12]: Eliminar
+      - paragraph [ref=f4e13]: No tienes elementos en el carrito
+      - generic [ref=f4e15]:
+        - paragraph [ref=f4e16]: "Total: $0.00"
+        - generic [ref=f4e17]:
+          - button "Ir al checkout" [ref=f4e18] [cursor=pointer]
+          - button "Limpiar" [ref=f4e19] [cursor=pointer]
+    - generic [ref=f4e20]:
+      - link "Laboratorio De Testing" [ref=f4e22] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f4e23]:
+          - generic [ref=f4e24]: Laboratorio
+          - generic [ref=f4e25]: De Testing
+      - list [ref=f4e29]:
+        - status [ref=f4e30]
+    - link [ref=f4e35] [cursor=pointer]:
+      - /url: "#"
+    - button [ref=f4e38] [cursor=pointer]
+  - main [ref=f4e41]:
+    - generic [ref=f4e42]:
+      - link [ref=f4e43] [cursor=pointer]:
+        - /url: /
+      - link "Favoritos" [ref=f4e48] [cursor=pointer]:
+        - /url: /whishlist
+    - generic [ref=f4e49]:
+      - heading "Favoritos" [level=1] [ref=f4e50]
+      - paragraph [ref=f4e51]:
+        - text: Total agregados
+        - generic [ref=f4e52]: (0)
+    - generic [ref=f4e54]:
+      - status [ref=f4e55]:
+        - generic [ref=f4e70]: Loading...
+      - status [ref=f4e71]:
+        - generic [ref=f4e86]: Loading...
+      - status [ref=f4e87]:
+        - generic [ref=f4e102]: Loading...
+      - status [ref=f4e103]:
+        - generic [ref=f4e118]: Loading...
+  - alert [ref=f4e119]
