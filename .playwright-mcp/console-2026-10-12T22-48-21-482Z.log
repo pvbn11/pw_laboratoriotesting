@@ -1,0 +1,4 @@
+[    3417ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://www.laboratoriodetesting.com/admin:0
+[    3809ms] [ERROR] Error: An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error. @ https://www.laboratoriodetesting.com/_next/static/chunks/117-45ae5faa3139021d.js:0
+[    3985ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.laboratoriodetesting.com/not-found?_rsc=qerwb:0
+[    4122ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.laboratoriodetesting.com/not-found:0

@@ -1,0 +1,14 @@
+[  354256ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.laboratoriodetesting.com/api/v1/orders:0
+[  478739ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://api.laboratoriodetesting.com/api/v1/admin:0
+[  537479ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.laboratoriodetesting.com/api/v1/orders:0
+[  538048ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.laboratoriodetesting.com/api/v1/orders:0
+[  538636ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.laboratoriodetesting.com/api/v1/orders:0
+[  539186ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.laboratoriodetesting.com/api/v1/orders:0
+[  539961ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.laboratoriodetesting.com/api/v1/orders:0
+[  540511ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.laboratoriodetesting.com/api/v1/orders:0
+[  541171ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.laboratoriodetesting.com/api/v1/orders:0
+[  550873ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.laboratoriodetesting.com/api/v1/cards:0
+[  551681ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.laboratoriodetesting.com/api/v1/card:0
+[  557628ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.laboratoriodetesting.com/api/v1/auth/profile:0
+[  558511ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.laboratoriodetesting.com/api/v1/users/me:0
+[  559364ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.laboratoriodetesting.com/api/v1/auth/me:0
